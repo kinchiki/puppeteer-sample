@@ -1,0 +1,10 @@
+{
+  "name": "puppeteer-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Akito Mizuno <mznakt@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^1.12.2"
+  }
+}
